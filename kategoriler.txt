@@ -1,0 +1,9 @@
+yemek
+corba
+hamur
+salata
+kurabiye
+icecek
+tatli
+kahvaltilik
+meze
