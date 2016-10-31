@@ -55,9 +55,9 @@
   </div>
 </div>
 <!-- JAVASCRIPTS --> 
-<script src="http://localhost/hataylitarifler/layout/scripts/jquery.min.js"></script> 
-<script src="http://localhost/hataylitarifler/layout/scripts/jquery.fitvids.min.js"></script> 
-<script src="http://localhost/hataylitarifler/layout/scripts/jquery.mobilemenu.js"></script> 
-<script src="http://localhost/hataylitarifler/layout/scripts/tabslet/jquery.tabslet.min.js"></script>
+<script src="http://localhost/hataylitarifler/hataylitarifler/layout/scripts/jquery.min.js"></script> 
+<script src="http://localhost/hataylitarifler/hataylitarifler/layout/scripts/jquery.fitvids.min.js"></script> 
+<script src="http://localhost/hataylitarifler/hataylitarifler/layout/scripts/jquery.mobilemenu.js"></script> 
+<script src="http://localhost/hataylitarifler/hataylitarifler/layout/scripts/tabslet/jquery.tabslet.min.js"></script>
 </body>
 </html>

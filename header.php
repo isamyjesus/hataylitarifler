@@ -11,9 +11,9 @@
     <!-- ################################################################################################ -->
     <nav>
         <ul>
-        <li><a href="http://localhost/hataylitarifler/hakkimizda.php">Hakkýmýzda</a></li>
-        <li><a href="http://localhost/hataylitarifler/kullanim.php">Kullaným Koþullarý</a></li>
-        <li><a href="http://localhost/hataylitarifler/iletisim.php">Ýletiþim</a></li>
+        <li><a href="http://localhost/hataylitarifler/hataylitarifler/hakkimizda.php">Hakkýmýzda</a></li>
+        <li><a href="http://localhost/hataylitarifler/hataylitarifler/kullanim.php">Kullaným Koþullarý</a></li>
+        <li><a href="http://localhost/hataylitarifler/hataylitarifler/iletisim.php">Ýletiþim</a></li>
         </ul>
     </nav>
     <!-- ################################################################################################ --> 
@@ -23,7 +23,7 @@
     <header id="header" class="clear"> 
     <!-- ################################################################################################ -->
     <div id="logo" class="fl_left">
-        <h1><a href="http://localhost/hataylitarifler/index.php">Hataylý Tarifler</a></h1>
+        <h1><a href="http://localhost/hataylitarifler/hataylitarifler/index.php">Hataylý Tarifler</a></h1>
         <p>Hatay mutfaðýný bizden &ouml;ðrenin</p>
     </div>
     <div class="fl_right">
@@ -43,8 +43,8 @@
     <nav id="mainav" class="clear"> 
         <!-- ################################################################################################ -->
         <ul class="clear">
-        <li class="active"><a href="http://localhost/hataylitarifler/index.php">Anasayfa</a></li>
-        <li><a href="http://localhost/hataylitarifler/tarifler.php">Tarifler</a></li>
+        <li class="active"><a href="http://localhost/hataylitarifler/hataylitarifler/index.php">Anasayfa</a></li>
+        <li><a href="http://localhost/hataylitarifler/hataylitarifler/tarifler.php">Tarifler</a></li>
         <li><a href="#">Videolu Tarifler</a></li>
         <li><a href="#">Men&uuml;ler</a></li>
         <li><a href="#">Yazarlar</a></li>

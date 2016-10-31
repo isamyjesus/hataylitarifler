@@ -38,63 +38,63 @@ Licence URI: http://www.os-templates.com/template-terms
         <!-- Middle Column -->
         <ul class="nospace clear">
           <li class="one_third first">
-            <a href="http://localhost/hataylitarifler/tarifler_pages/yemek.php">
-            	<article><img class="borderedbox" src="http://localhost/hataylitarifler/images/tarifler_images/yemek_images/yemek.jpg" alt="">
+            <a href="http://localhost/hataylitarifler/hataylitarifler/tarifler_pages/yemek.php">
+            	<article><img class="borderedbox" src="http://localhost/hataylitarifler/hataylitarifler/images/tarifler_images/yemek_images/yemek.jpg" alt="">
               		<br /><span class="baslik2">Yemek Tarifleri</span>
             	</article>
             </a><br /><br />
           </li>
           <li class="one_third">
-            <a href="http://localhost/hataylitarifler/tarifler_pages/corba.php">
-            <article><img class="borderedbox" src="http://localhost/hataylitarifler/images/tarifler_images/corba_images/corba.jpg" alt="">
+            <a href="http://localhost/hataylitarifler/hataylitarifler/tarifler_pages/corba.php">
+            <article><img class="borderedbox" src="http://localhost/hataylitarifler/hataylitarifler/images/tarifler_images/corba_images/corba.jpg" alt="">
               <br /><span class="baslik2">Çorba Tarifleri</span>
             </article>
             </a><br /><br />
           </li>
           <li class="one_third">
-            <a href="http://localhost/hataylitarifler/tarifler_pages/hamur.php">
-            <article><img class="borderedbox" src="http://localhost/hataylitarifler/images/tarifler_images/hamur_images/hamur.jpg" alt="">
+            <a href="http://localhost/hataylitarifler/hataylitarifler/tarifler_pages/hamur.php">
+            <article><img class="borderedbox" src="http://localhost/hataylitarifler/hataylitarifler/images/tarifler_images/hamur_images/hamur.jpg" alt="">
               <br /><span class="baslik2">Hamur Ýþleri</span>
             </article>
             </a><br /><br />
           </li>
           <li class="one_third first">
-            <a href="http://localhost/hataylitarifler/tarifler_pages/salata.php">
-            <article><img class="borderedbox" src="http://localhost/hataylitarifler/images/tarifler_images/salata_images/salata.jpg" alt="">
+            <a href="http://localhost/hataylitarifler/hataylitarifler/tarifler_pages/salata.php">
+            <article><img class="borderedbox" src="http://localhost/hataylitarifler/hataylitarifler/images/tarifler_images/salata_images/salata.jpg" alt="">
               <br /><span class="baslik2">Salata Tarifleri</span>
             </article>
             </a><br /><br />
           </li>
           <li class="one_third">
-            <a href="http://localhost/hataylitarifler/tarifler_pages/meze.php">
-            <article><img class="borderedbox" src="http://localhost/hataylitarifler/images/tarifler_images/meze_images/meze.jpg" alt="">
+            <a href="http://localhost/hataylitarifler/hataylitarifler/tarifler_pages/meze.php">
+            <article><img class="borderedbox" src="http://localhost/hataylitarifler/hataylitarifler/images/tarifler_images/meze_images/meze.jpg" alt="">
               <br /><span class="baslik2">Meze Tarifleri</span>
             </article>
             </a><br /><br />
           </li>
           <li class="one_third">
-            <a href="http://localhost/hataylitarifler/tarifler_pages/kurabiye.php">
-            <article><img class="borderedbox" src="http://localhost/hataylitarifler/images/tarifler_images/kurabiye_images/kurabiye.jpg" alt="">
+            <a href="http://localhost/hataylitarifler/hataylitarifler/tarifler_pages/kurabiye.php">
+            <article><img class="borderedbox" src="http://localhost/hataylitarifler/hataylitarifler/images/tarifler_images/kurabiye_images/kurabiye.jpg" alt="">
               <br /><span class="baslik2">Kurabiye Tarifleri</span>
             </article>
             </a><br /><br />
           </li><li class="one_third first">
-            <a href="http://localhost/hataylitarifler/tarifler_pages/tatli.php">
-            <article><img class="borderedbox" src="http://localhost/hataylitarifler/images/tarifler_images/tatli_images/tatli.jpg" alt="">
+            <a href="http://localhost/hataylitarifler/hataylitarifler/tarifler_pages/tatli.php">
+            <article><img class="borderedbox" src="http://localhost/hataylitarifler/hataylitarifler/images/tarifler_images/tatli_images/tatli.jpg" alt="">
               <br /><span class="baslik2">Tatlý Tarifleri</span>
             </article>
             </a><br /><br />
           </li>
           <li class="one_third">
-            <a href="http://localhost/hataylitarifler/tarifler_pages/icecek.php">
-            <article><img class="borderedbox" src="http://localhost/hataylitarifler/images/tarifler_images/icecek_images/icecek.jpg" alt="">
+            <a href="http://localhost/hataylitarifler/hataylitarifler/tarifler_pages/icecek.php">
+            <article><img class="borderedbox" src="http://localhost/hataylitarifler/hataylitarifler/images/tarifler_images/icecek_images/icecek.jpg" alt="">
               <br /><span class="baslik2">Ýçecek Tarifleri</span>
             </article>
             </a><br /><br />
           </li>
           <li class="one_third">
-            <a href="http://localhost/hataylitarifler/tarifler_pages/kahvaltilik.php">
-            <article><img class="borderedbox" src="http://localhost/hataylitarifler/images/tarifler_images/kahvaltilik_images/kahvaltilik.jpg" alt="">
+            <a href="http://localhost/hataylitarifler/hataylitarifler/tarifler_pages/kahvaltilik.php">
+            <article><img class="borderedbox" src="http://localhost/hataylitarifler/hataylitarifler/images/tarifler_images/kahvaltilik_images/kahvaltilik.jpg" alt="">
               <br /><span class="baslik2">Kahvaltýlýk Tarifleri</span>
             </article>
             </a><br /><br />
